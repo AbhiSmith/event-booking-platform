@@ -1,0 +1,17 @@
+npx create-next-app@latest ./
+npm run dev
+Build shadcn ui ti build your component library -> npx shadcn-ui@latest init 
+npx shadcn-ui@latest add button
+use uploadthing for file upload next.js developer
+ 
+npm i @uploadthing/react
+npm i uploadthing @uploadthing/react
+
+using clerk for authentication
+npm install @clerk/nextjs
+in layout wraap in <ClerkProvider> </ClerkProvider>
+make one middleware.ts full docs https://clerk.com/docs/quickstarts/nextjs?_gl=1*17veiw3*_gcl_au*MTAxMDg3NDk4Ni4xNzA2MjQ3OTY2*_ga*MzE3ODQxNjc5LjE3MDYyNDc5NjY.*_ga_1WMF5X234K*MTcwNjI0Nzk2Ni4xLjEuMTcwNjI0ODExNC4wLjAuMA..
+npx shadcn-ui@latest add separator shadcn ui separator
+webhooks to clerk  
+webhooks to clerk  npm install svix
+
